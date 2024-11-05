@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714327175024",
+    "project_id": "socialclone-e86fe",
+    "storage_bucket": "socialclone-e86fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714327175024:android:9cbe5438200ac04534e9b5",
+        "android_client_info": {
+          "package_name": "com.example.streamingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714327175024-2ei563o6diilmgj7eofa1nf6kirqtrvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6VzdSWAUNMbpjrJXyf_huf5qaiLlp1_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714327175024-2ei563o6diilmgj7eofa1nf6kirqtrvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
